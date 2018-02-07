@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "managelists",
+    "libraryId": "99f54424-ec10-4c0a-ac6e-d328a600b344",
+    "environment": "spo"
+  }
+}

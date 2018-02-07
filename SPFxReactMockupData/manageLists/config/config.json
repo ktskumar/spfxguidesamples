@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "manage-lists-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/manageLists/ManageListsWebPart.js",
+          "manifest": "./src/webparts/manageLists/ManageListsWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ManageListsWebPartStrings": "lib/webparts/manageLists/loc/{locale}.js"
+  }
+}

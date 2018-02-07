@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "managelists-client-side-solution",
+    "id": "99f54424-ec10-4c0a-ac6e-d328a600b344",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/managelists.sppkg"
+  }
+}
